@@ -1,6 +1,5 @@
 <RCC>
-    <qresource prefix="/new/miao">
+    <qresource prefix="/new/prefix1">
         <file alias="icon1">percent_cat_128px_1141874_easyicon.net.ico</file>
-        <file alias="icon">error_cat_128px_1141868_easyicon.net.ico</file>
     </qresource>
 </RCC>

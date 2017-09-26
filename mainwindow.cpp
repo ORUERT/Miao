@@ -6,7 +6,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
     ui->setupUi(this);
     appAutoRun(1);
-    setWindowIcon(QIcon("icon"));
+    setWindowIcon(QIcon("icon1"));
 
 //透明
     setWindowFlags(Qt::FramelessWindowHint|Qt::WindowStaysOnTopHint);
